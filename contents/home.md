@@ -1,6 +1,8 @@
 
 Hello, I'm Jacob Miller, a soon-to-be-graduating Ph.D. student from the University of Arizona. 
 
+Find my CV <a href="https://jacoblmiller.github.io/homemage/miller_cv.pdf">here!</a>
+
 #### Email
 jacobmiller1[at]arizona.edu
 
