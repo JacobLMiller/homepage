@@ -1,7 +1,8 @@
 import pybtex
-txt = pybtex.format_from_file("pubs.bib", style="plain", output_backend="markdown")
+from pybtex.database import parse_file
 
-txt = txt.replace("Jacob Miller", "<b>Jacob Miller </b>")
+res = parse_file("pubs.bib")
 
-with open("publications.md", "w") as fdata:
-    fdata.write(txt)
+for entry in list(res.entries.values()):
+    print(entry.fields['year'])
+    print(entry.to_string('bibtex'))
