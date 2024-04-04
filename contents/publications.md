@@ -2,7 +2,7 @@
 
 [2] Miller, Jacob, Vahan Huroyan, and Stephen Kobourov. "<a href="papers/SMDS.pdf"> Spherical Graph Drawing by Multi-dimensional Scaling.</a>" International Symposium on Graph Drawing and Network Visualization. Cham: Springer International Publishing, 2022.
 
-[3] Miller, Jacob, et al. "<a href="papers/small_subgraphs.pdf">On the Perception of Small Sub-graphs.</a>" International Symposium on Graph Drawing and Network Visualization. Cham: Springer Nature Switzerland, 2023.
+[3] Miller, Jacob, Mohammad Ghoniem, Hsiang-Yun Wu, Helen Purchase. "<a href="papers/small_subgraphs.pdf">On the Perception of Small Sub-graphs.</a>" International Symposium on Graph Drawing and Network Visualization. Cham: Springer Nature Switzerland, 2023.
 
 [4] Miller, Jacob, Vahan Huroyan, and Stephen Kobourov. "<a href="papers/LGS.pdf">Balancing Between the Local and Global Structures (LGS) in Graph Embedding.</a>" International Symposium on Graph Drawing and Network Visualization. Cham: Springer Nature Switzerland, 2023.
 
