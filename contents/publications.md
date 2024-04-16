@@ -8,4 +8,4 @@
 
 [5] Miller, Jacob, Vahan Huroyan, Raymundo Navarrete, Md Iqbal Hossain, Stephen Kobourov. "<a href="papers/ENS-t-SNE.pdf">ENS-t-SNE: Embedding Neighborhoods Simultaneously t-SNE</a>" 2024 IEEE 17h Pacific visualization Symposium (PacificVis). IEEE, 2024
 
-[6] (conditionally) Miller, Jacob, Dhruv Bhatia, Stephen Kobourov. "<a href="papers/Riemannian_STAR.pdf">State of the Art of Graph Visualization in non-Euclidean Spaces</a>" EuroVis. 2024
+[6] Miller, Jacob, Dhruv Bhatia, Stephen Kobourov. "<a href="papers/Riemannian_STAR.pdf">State of the Art of Graph Visualization in non-Euclidean Spaces</a>" EuroVis. 2024
