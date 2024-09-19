@@ -1,5 +1,5 @@
 
-Hello, I'm Jacob Miller, a soon-to-be-graduating Ph.D. student from the University of Arizona. 
+Hey! You're at the personal website of Jacob Miller, a postdoctoral fellow at TU Munich, Campus Heilbronn. My primary research interest is network visualization, in particular network layout. 
 
 Find my CV <a href="miller_cv.pdf">here!</a>
 
