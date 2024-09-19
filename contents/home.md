@@ -8,10 +8,10 @@ Find my CV <a href="miller_cv.pdf">here!</a>
 <a href="https://scholar.google.com/citations?user=kggsAH0AAAAJ&hl=en&oi=ao">Google Scholar</a>
 
 #### Email
-jacobmiller1[at]arizona.edu
+jacob.miller[at]tum.de
 
 #### Education
-(2024) Ph.D. in Computer Science from the University of Arizona (pending)
+(2024) Ph.D. in Computer Science from the University of Arizona
 
 Advisor: Stephen Kobourov | <a href="https://jacoblmiller.github.io/homepage/papers/thesis-final.pdf">Thesis</a>
 
